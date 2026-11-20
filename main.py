@@ -2,8 +2,8 @@
 # Fase 4 - Programacion
 # Sistema Integral de Gestion de Clientes, Servicios y Reservas
 # Empresa: Software FJ
-# Autor: 
-# Grupo:  
+# Autor: BRAYAM ALEJANDRO BUSTOS JIMENEZ
+# Grupo:  213023_586
 # Curso: Programacion - UNAD
 # ============================================================
 
